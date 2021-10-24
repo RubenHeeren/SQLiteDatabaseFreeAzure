@@ -1,4 +1,4 @@
-# Repo for the YouTube tutorial "[FREE] Hosting ASP.NET Web Apps with a SQLite database on Azure".
+# Repo for the YouTube tutorial "[FREE] Hosting ASP.NET Web Apps with a SQLite database on Azure".\ 
 \ 
 \ 
 \ 
