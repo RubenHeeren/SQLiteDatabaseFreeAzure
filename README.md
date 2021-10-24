@@ -2,4 +2,4 @@
 <br />
 <br />
 <br />
-# [LINK TO VIDEO](https://youtu.be/HNsBe3Cuu9g)
+# Link to video: https://youtu.be/HNsBe3Cuu9g
